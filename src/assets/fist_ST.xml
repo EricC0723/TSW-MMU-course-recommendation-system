@@ -1,0 +1,136 @@
+<FIST department="Faculty of Information Science and Technology">
+<Major name="ST">
+    <DisciplineCoreCourses>
+        <Course>
+            <Code>TEP6123</Code>
+            <Name>Ethics and Professional Conducts</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TMA6123</Code>
+            <Name>Discrete Mathematics and Probability</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TCN6213</Code>
+            <Name>Computer Networks</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TDC6123</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TSA6213</Code>
+            <Name>System Administration and Maintenance</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TOS6113</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TDS6213</Code>
+            <Name>Data Structures and Algorithms</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCP6114</PreRequisite>
+        </Course>
+
+        <Course>
+            <Code>THI6223</Code>
+            <Name>Human Computer Interaction</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCP6114</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TWT6223</Code>
+            <Name>Web Techniques and Application</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TSI6223</Code>
+            <Name>System Integration and Architecture</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCP6114</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TCS6223</Code>
+            <Name>Computer Security</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCP6114</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TER6313</Code>
+            <Name>Enterprise Resource Planning</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TCC6313</Code>
+            <Name>Cloud Computing</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+    </DisciplineCoreCourses>
+    
+    <SpecialisationCourses>
+        <Course>
+            <Code>TEH6213</Code>
+            <Name>Ethical Hacking and Security Assessment</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TIA6213</Code>
+            <Name>Information Assurance and Securit</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TCL6223</Code>
+            <Name>Cybersecurity Law</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TAC6223</Code>
+            <Name>Applied Cryptography</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TDS6213</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TSA6313</Code>
+            <Name>Security Analysis &amp; Vulnerability Assessment</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TPB6323</Code>
+            <Name>Password Authentication and Biometrics</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCS6223</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TMS6323</Code>
+            <Name>Management of Information Security</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TPS6313</Code>
+            <Name>Python for Security</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCS6223</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TMI6323</Code>
+            <Name>Malware and Intrusion Detection</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCS6223</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TDF6323</Code>
+            <Name>Digital Forensics</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCS6223</PreRequisite>
+        </Course>
+        </SpecialisationCourses>
+        </Major>
+        </FIST>

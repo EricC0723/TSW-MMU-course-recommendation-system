@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Subject>
+        <Course>
+        <Code>TPR6313</Code>
+        <Name>Final Year Project 1</Name>
+        <CreditHour>6</CreditHour>
+        <PreRequisite>60CH</PreRequisite>
+    </Course>
+        <Course>
+        <Code>TPR6323</Code>
+        <Name>Final Year Project 2</Name>
+        <CreditHour>6</CreditHour>
+        <PreRequisite>TPR6313</PreRequisite>
+    </Course>
+</Subject>

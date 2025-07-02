@@ -1,0 +1,137 @@
+<FIST department="Faculty of Information Science and Technology">
+<Major name="DCN">
+    <DisciplineCoreCourses>
+        <Course>
+            <Code>TEP6123</Code>
+            <Name>Ethics and Professional Conducts</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TMA6123</Code>
+            <Name>Discrete Mathematics and Probability</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TCN6213</Code>
+            <Name>Computer Networks</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TDC6123</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TSA6213</Code>
+            <Name>System Administration and Maintenance</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TOS6113</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TDS6213</Code>
+            <Name>Data Structures and Algorithms</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCP6114</PreRequisite>
+        </Course>
+
+        <Course>
+            <Code>THI6223</Code>
+            <Name>Human Computer Interaction</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCP6114</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TWT6223</Code>
+            <Name>Web Techniques and Application</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TSI6223</Code>
+            <Name>System Integration and Architecture</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCP6114</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TCS6223</Code>
+            <Name>Computer Security</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCP6114</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TER6313</Code>
+            <Name>Enterprise Resource Planning</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TCC6313</Code>
+            <Name>Cloud Computing</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+    </DisciplineCoreCourses>
+    
+    <SpecialisationCourses>
+        <Course>
+            <Code>TNS6213</Code>
+            <Name>Network Security and Management</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TAI6213</Code>
+            <Name>Artificial Intelligence Fundamentals</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TRS6223</Code>
+            <Name>Routing and Switching</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCN6213</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TTP6313</Code>
+            <Name>TCP/IP Programming</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCN6213</PreRequisite>
+        </Course>
+        <Course>
+            <Code>THN6323</Code>
+            <Name>High-Speed Networks</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TCN6213</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TWC6323</Code>
+            <Name>Mobile and Wireless Communications</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TDC6123</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TCA6323</Code>
+            <Name>Cloud Architecture</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>TDB6113</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TMS6323</Code>
+            <Name>Management of Information Security</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TDA6313</Code>
+            <Name>Data Analytics Fundamentals</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+        <Course>
+            <Code>TIT6223</Code>
+            <Name>Internet of Things (IoT) Fundamental</Name>
+            <CreditHour>3</CreditHour>
+            <PreRequisite>NONE</PreRequisite>
+        </Course>
+</SpecialisationCourses>
+
+</Major>
+</FIST>

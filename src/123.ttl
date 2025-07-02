@@ -1,0 +1,492 @@
+@prefix ex: <http://example.org/fist/> .
+
+ex:LDCW6123 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "LDCW6123" ;
+    ex:courseType ex:FreeElective ;
+    ex:creditHour "3" ;
+    ex:name "Fundamentals of Digital Competence for Programmers" .
+
+ex:TAC6223 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TAC6223" ;
+    ex:creditHour "3" ;
+    ex:name "Applied Cryptography" ;
+    ex:requires ex:TDS6213 .
+
+ex:TAO6123 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TAO6123" ;
+    ex:courseType ex:CoreComputing ;
+    ex:creditHour "3" ;
+    ex:name "Computer Architecture and Organisation" .
+
+ex:TBI6223 a ex:Course ;
+    ex:belongsToMajor ex:BIA ;
+    ex:code "TBI6223" ;
+    ex:creditHour "3" ;
+    ex:name "Business Intelligence" ;
+    ex:requires ex:TDB6113 .
+
+ex:TBS6213 a ex:Course ;
+    ex:belongsToMajor ex:BIA ;
+    ex:code "TBS6213" ;
+    ex:creditHour "3" ;
+    ex:name "Business Statistical Analysis" .
+
+ex:TCA6323 a ex:Course ;
+    ex:belongsToMajor ex:DCN ;
+    ex:code "TCA6323" ;
+    ex:creditHour "3" ;
+    ex:name "Cloud Architecture" ;
+    ex:requires ex:TDB6113 .
+
+ex:TCC6313 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TCC6313" ;
+    ex:creditHour "3" ;
+    ex:name "Cloud Computing" .
+
+ex:TCG6223 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TCG6223" ;
+    ex:creditHour "3" ;
+    ex:name "Computer Graphics" ;
+    ex:requires ex:TCP6114 .
+
+ex:TCI6313 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TCI6313" ;
+    ex:creditHour "3" ;
+    ex:name "Computational Intelligence" ;
+    ex:requires ex:TML6223 .
+
+ex:TCL6223 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TCL6223" ;
+    ex:creditHour "3" ;
+    ex:name "Cybersecurity Law" .
+
+ex:TCV6313 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TCV6313" ;
+    ex:creditHour "3" ;
+    ex:name "Computer Vision" ;
+    ex:requires ex:TML6223 .
+
+ex:TDA6313 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN ;
+    ex:code "TDA6313" ;
+    ex:creditHour "3" ;
+    ex:name "Data Analytics Fundamentals" .
+
+ex:TDA6323 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TDA6323" ;
+    ex:creditHour "3" ;
+    ex:name "Algorithm Design and Analysis" ;
+    ex:requires ex:TDS6213 .
+
+ex:TDE6343 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TDE6343" ;
+    ex:courseType ex:FreeElective ;
+    ex:creditHour "3" ;
+    ex:name "Techno-Driven Entrepreneurship (FE1)" .
+
+ex:TDF6323 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TDF6323" ;
+    ex:creditHour "3" ;
+    ex:name "Digital Forensics" ;
+    ex:requires ex:TCS6223 .
+
+ex:TDI6363 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TDI6363" ;
+    ex:courseType ex:FreeElective ;
+    ex:creditHour "3" ;
+    ex:name "Diffusion and Adoption of Innovation (FE2)" .
+
+ex:TDM6323 a ex:Course ;
+    ex:belongsToMajor ex:BIA ;
+    ex:code "TDM6323" ;
+    ex:creditHour "3" ;
+    ex:name "Data Mining and Machine Learning" ;
+    ex:requires ex:TCP6114 .
+
+ex:TDS6313 a ex:Course ;
+    ex:belongsToMajor ex:BIA ;
+    ex:code "TDS6313" ;
+    ex:creditHour "3" ;
+    ex:name "Data Storytelling" .
+
+ex:TDW6323 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TDW6323" ;
+    ex:creditHour "3" ;
+    ex:name "Data Wrangling and Visualization" .
+
+ex:TEH6213 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TEH6213" ;
+    ex:creditHour "3" ;
+    ex:name "Ethical Hacking and Security Assessment" .
+
+ex:TEP6123 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TEP6123" ;
+    ex:creditHour "3" ;
+    ex:name "Ethics and Professional Conducts" .
+
+ex:TER6313 a ex:Course ;
+    ex:belongsToMajor ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TER6313" ;
+    ex:creditHour "3" ;
+    ex:name "Enterprise Resource Planning" .
+
+ex:TES6313 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TES6313" ;
+    ex:creditHour "3" ;
+    ex:name "Expert Systems" ;
+    ex:requires ex:TAI6213 .
+
+ex:THI6223 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "THI6223" ;
+    ex:creditHour "3" ;
+    ex:name "Human Computer Interaction" ;
+    ex:requires ex:TCP6114 .
+
+ex:THN6323 a ex:Course ;
+    ex:belongsToMajor ex:DCN ;
+    ex:code "THN6323" ;
+    ex:creditHour "3" ;
+    ex:name "High-Speed Networks" ;
+    ex:requires ex:TCN6213 .
+
+ex:TIA6213 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TIA6213" ;
+    ex:creditHour "3" ;
+    ex:name "Information Assurance and Securit" .
+
+ex:TIM6323 a ex:Course ;
+    ex:belongsToMajor ex:BIA ;
+    ex:code "TIM6323" ;
+    ex:creditHour "3" ;
+    ex:name "Internet Marketing" .
+
+ex:TIT6223 a ex:Course ;
+    ex:belongsToMajor ex:BIA,
+        ex:DCN ;
+    ex:code "TIT6223" ;
+    ex:creditHour "3" ;
+    ex:name "Internet of Things (IoT) Fundamental" .
+
+ex:TIT6336 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TIT6336" ;
+    ex:courseType ex:IndustrialTraining ;
+    ex:creditHour "6" ;
+    ex:name " Industrial Training" ;
+    ex:requires ex:60CH .
+
+ex:TMA6123 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TMA6123" ;
+    ex:creditHour "3" ;
+    ex:name "Discrete Mathematics and Probability" .
+
+ex:TMA6213 a ex:Course ;
+    ex:belongsToMajor ex:BIA ;
+    ex:code "TMA6213" ;
+    ex:creditHour "3" ;
+    ex:name "Discrete Mathematics and Probability" .
+
+ex:TMI6323 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TMI6323" ;
+    ex:creditHour "3" ;
+    ex:name "Malware and Intrusion Detection" ;
+    ex:requires ex:TCS6223 .
+
+ex:TMS6323 a ex:Course ;
+    ex:belongsToMajor ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TMS6323" ;
+    ex:creditHour "3" ;
+    ex:name "Management of Information Security" .
+
+ex:TNL6323 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TNL6323" ;
+    ex:creditHour "3" ;
+    ex:name "Natural Language Processing" ;
+    ex:requires ex:TAI6213 .
+
+ex:TNS6213 a ex:Course ;
+    ex:belongsToMajor ex:DCN ;
+    ex:code "TNS6213" ;
+    ex:creditHour "3" ;
+    ex:name "Network Security and Management" .
+
+ex:TPB6323 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TPB6323" ;
+    ex:creditHour "3" ;
+    ex:name "Password Authentication and Biometrics" ;
+    ex:requires ex:TCS6223 .
+
+ex:TPC6323 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TPC6323" ;
+    ex:creditHour "3" ;
+    ex:name "Parallel Computing" ;
+    ex:requires ex:TCP6114 .
+
+ex:TPL6213 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TPL6213" ;
+    ex:creditHour "3" ;
+    ex:name "Programming Language Concept" ;
+    ex:requires ex:TCP6114 .
+
+ex:TPM6323 a ex:Course ;
+    ex:belongsToMajor ex:BIA ;
+    ex:code "TPM6323" ;
+    ex:creditHour "3" ;
+    ex:name "Project Management for Business Analysts" .
+
+ex:TPR6323 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TPR6323" ;
+    ex:courseType ex:FinalYearProject ;
+    ex:creditHour "6" ;
+    ex:name " Final Year Project 2" ;
+    ex:requires ex:TPR6313 .
+
+ex:TPS6313 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TPS6313" ;
+    ex:creditHour "3" ;
+    ex:name "Python for Security" ;
+    ex:requires ex:TCS6223 .
+
+ex:TRS6223 a ex:Course ;
+    ex:belongsToMajor ex:DCN ;
+    ex:code "TRS6223" ;
+    ex:creditHour "3" ;
+    ex:name "Routing and Switching" ;
+    ex:requires ex:TCN6213 .
+
+ex:TSA6113 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TSA6113" ;
+    ex:courseType ex:CoreComputing ;
+    ex:creditHour "3" ;
+    ex:name "System Analysis and Design" .
+
+ex:TSA6213 a ex:Course ;
+    ex:belongsToMajor ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TSA6213" ;
+    ex:creditHour "3" ;
+    ex:name "System Administration and Maintenance" ;
+    ex:requires ex:TOS6113 .
+
+ex:TSA6313 a ex:Course ;
+    ex:belongsToMajor ex:ST ;
+    ex:code "TSA6313" ;
+    ex:creditHour "3" ;
+    ex:name "Security Analysis & Vulnerability Assessment" .
+
+ex:TSE6223 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TSE6223" ;
+    ex:creditHour "3" ;
+    ex:name "Software Engineering Fundamentals" ;
+    ex:requires ex:TCP6114 .
+
+ex:TSI6223 a ex:Course ;
+    ex:belongsToMajor ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TSI6223" ;
+    ex:creditHour "3" ;
+    ex:name "System Integration and Architecture" ;
+    ex:requires ex:TCP6114 .
+
+ex:TSW6223 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TSW6223" ;
+    ex:creditHour "3" ;
+    ex:name "Semantic Web Technology" .
+
+ex:TTP6313 a ex:Course ;
+    ex:belongsToMajor ex:DCN ;
+    ex:code "TTP6313" ;
+    ex:creditHour "3" ;
+    ex:name "TCP/IP Programming" ;
+    ex:requires ex:TCN6213 .
+
+ex:TWC6323 a ex:Course ;
+    ex:belongsToMajor ex:DCN ;
+    ex:code "TWC6323" ;
+    ex:creditHour "3" ;
+    ex:name "Mobile and Wireless Communications" ;
+    ex:requires ex:TDC6123 .
+
+ex:TWD6373 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TWD6373" ;
+    ex:courseType ex:FreeElective ;
+    ex:creditHour "3" ;
+    ex:name "Workplace Dynamics (FE3)" .
+
+ex:TWT6223 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TWT6223" ;
+    ex:creditHour "3" ;
+    ex:name "Web Techniques and Application" .
+
+ex:TOS6113 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TOS6113" ;
+    ex:courseType ex:CoreComputing ;
+    ex:creditHour "3" ;
+    ex:name "Operating Systems" .
+
+ex:TPR6313 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TPR6313" ;
+    ex:courseType ex:FinalYearProject ;
+    ex:creditHour "6" ;
+    ex:name " Final Year Project 1" ;
+    ex:requires ex:60CH .
+
+ex:TAI6213 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN ;
+    ex:code "TAI6213" ;
+    ex:creditHour "3" ;
+    ex:name "Artificial Intelligence Fundamentals" .
+
+ex:TDB6113 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TDB6113" ;
+    ex:courseType ex:CoreComputing ;
+    ex:creditHour "3" ;
+    ex:name "Database Systems" .
+
+ex:TDC6123 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TDC6123" ;
+    ex:courseType ex:CoreComputing ;
+    ex:creditHour "3" ;
+    ex:name "Data Communications and Networking" .
+
+ex:TDS6213 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TDS6213" ;
+    ex:creditHour "3" ;
+    ex:name "Data Structures and Algorithms" ;
+    ex:requires ex:TCP6114 .
+
+ex:TML6223 a ex:Course ;
+    ex:belongsToMajor ex:AI ;
+    ex:code "TML6223" ;
+    ex:creditHour "3" ;
+    ex:name "Machine Learning" ;
+    ex:requires ex:TCP6114 .
+
+ex:TCN6213 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TCN6213" ;
+    ex:creditHour "3" ;
+    ex:name "Computer Networks" ;
+    ex:requires ex:TDC6123 .
+
+ex:TCS6223 a ex:Course ;
+    ex:belongsToMajor ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TCS6223" ;
+    ex:creditHour "3" ;
+    ex:name "Computer Security" ;
+    ex:requires ex:TCP6114 .
+
+ex:TCP6114 a ex:Course ;
+    ex:belongsToMajor ex:AI,
+        ex:BIA,
+        ex:DCN,
+        ex:ST ;
+    ex:code "TCP6114" ;
+    ex:courseType ex:CoreComputing ;
+    ex:creditHour "4" ;
+    ex:name "Computer Programming" .
+

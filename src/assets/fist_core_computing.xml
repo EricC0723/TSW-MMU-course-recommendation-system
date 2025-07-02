@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CoreComputingCourses>
+    <Course>
+        <Code>TCP6114</Code>
+        <Name>Computer Programming</Name>
+        <CreditHour>4</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TDB6113</Code>
+        <Name>Database Systems</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TOS6113</Code>
+        <Name>Operating Systems</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TSA6113</Code>
+        <Name>System Analysis and Design</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TAO6123</Code>
+        <Name>Computer Architecture and Organisation</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TDC6123</Code>
+        <Name>Data Communications and Networking</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+</CoreComputingCourses>

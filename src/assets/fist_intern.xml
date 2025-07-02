@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Subject>
+    <Course>
+        <Code>TIT6336</Code>
+        <Name>Industrial Training</Name>
+        <CreditHour>6</CreditHour>
+        <PreRequisite>60CH</PreRequisite>
+    </Course>
+</Subject>

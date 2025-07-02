@@ -1,0 +1,136 @@
+<FIST department="Faculty of Information Science and Technology">
+<Major name="AI">
+<DisciplineCoreCourses>
+    <Course>
+        <Code>TEP6123</Code>
+        <Name>Ethics and Professional Conducts</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+    <Code>TMA6123</Code>
+        <Name>Discrete Mathematics and Probability</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TPL6213</Code>
+        <Name>Programming Language Concept</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TCP6114</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TAI6213</Code>
+        <Name>Artificial Intelligence Fundamentals</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TDS6213</Code>
+        <Name>Data Structures and Algorithms</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TCP6114</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TCN6213</Code>
+        <Name>Computer Networks</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TDC6123</PreRequisite>
+    </Course>
+    <Course>
+        <Code>THI6223</Code>
+        <Name>Human Computer Interaction</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TCP6114</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TSE6223</Code>
+        <Name>Software Engineering Fundamentals</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TCP6114</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TWT6223</Code>
+        <Name>Web Techniques and Application</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+        <Course>
+        <Code>TPC6323</Code>
+        <Name>Parallel Computing</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TCP6114</PreRequisite>
+    </Course>
+        <Course>
+        <Code>TDA6323</Code>
+        <Name>Algorithm Design and Analysis</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TDS6213</PreRequisite>
+    </Course>
+    </DisciplineCoreCourses>
+    
+    <SpecialisationCourses>
+    <Course>
+        <Code>TDA6313</Code>
+        <Name>Data Analytics Fundamentals</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TSW6223</Code>
+        <Name>Semantic Web Technology</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TML6223</Code>
+        <Name>Machine Learning</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TCP6114</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TCG6223</Code>
+        <Name>Computer Graphics</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TCP6114</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TCC6313</Code>
+        <Name>Cloud Computing</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TES6313</Code>
+        <Name>Expert Systems</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TAI6213</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TCI6313</Code>
+        <Name>Computational Intelligence</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TML6223</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TCV6313</Code>
+        <Name>Computer Vision</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TML6223</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TDW6323</Code>
+        <Name>Data Wrangling and Visualization</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TNL6323</Code>
+        <Name>Natural Language Processing</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>TAI6213</PreRequisite>
+    </Course>
+    </SpecialisationCourses>
+
+</Major>
+</FIST>

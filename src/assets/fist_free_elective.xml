@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElectiveSubject>
+    <Course>
+        <Code>LDCW6123</Code>
+        <Name>Fundamentals of Digital Competence for Programmers</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TDE6343</Code>
+        <Name>Techno-Driven Entrepreneurship (FE1)</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TDI6363</Code>
+        <Name>Diffusion and Adoption of Innovation (FE2)</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+    <Course>
+        <Code>TWD6373</Code>
+        <Name>Workplace Dynamics (FE3)</Name>
+        <CreditHour>3</CreditHour>
+        <PreRequisite>NONE</PreRequisite>
+    </Course>
+</ElectiveSubject>
